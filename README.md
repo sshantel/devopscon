@@ -1,4 +1,4 @@
-# Hi and welcome to DevOpsCon demo repository
+# Hi and Welcome to DevOpsCon demo repository
 ## This repo contains basic Maven project with Hello-World war file 
 In order to make it work, please do the following: 
 
@@ -22,3 +22,4 @@ In order to make it work, please do the following:
 hello testing 123 
 The workshop PPT can be downloaded from:
 https://drive.google.com/file/d/1mMPO0zrphJ4-4WMXlDkmZpEcP5ctRkv-/view?usp=sharing
+
